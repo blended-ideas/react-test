@@ -1,0 +1,23 @@
+#root {
+  // max-width: 1280px;
+  // margin: 0 auto;
+  padding: 2rem;
+  // text-align: center;
+}
+
+.App {
+  margin: auto;
+  max-width: 25rem;
+}
+
+.Search {
+  display: flex;
+  justify-content: space-between;
+}
+
+.AddItem {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
